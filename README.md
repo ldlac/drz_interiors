@@ -24,7 +24,9 @@ Version 1.0 because it's stable.
 - For users : Just walk in the marker. Quite simple.
 
 - For developers : The array is in the server file
-####**id should start at number 1**
+
+###**id should start at number 1**
+
 [id] = { ["xe"] = **x enter**, ["ye"] = **y enter**, ["ze"] = **z enter**, ["he"] = **heading enter**, ["xo"] = **x out**, ["yo"] = **y out**, ["zo"] = **z out**, ["ho"] = **heading out**, ["name"] = '**The Name**'},
 
 
