@@ -29,6 +29,7 @@ Version 1.0 because it's stable.
 
 [id] = { ["xe"] = **x enter**, ["ye"] = **y enter**, ["ze"] = **z enter**, ["he"] = **heading enter**, ["xo"] = **x out**, ["yo"] = **y out**, ["zo"] = **z out**, ["ho"] = **heading out**, ["name"] = '**The Name**'},
 
+**heading** is the direction where you are watching. It's in range of 0 to 360 degrees (Circle) I will provide a tool in the future that will give it to you in the chat
 
 ## Thanks
 
